@@ -16,9 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 1 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+             
             </p>
 
             <p className="text-muted-foreground">
@@ -74,7 +72,7 @@ export const AboutSection = () => {
             </div>
             <div className="gradient-border p-6 card-hover">
               <div className="flex items-start gap-4">
-                
+
                 <div className="p-3 rounded-full bg-primary/10">
                   <Briefcase className="h-6 w-6 text-primary" />
                 </div>
